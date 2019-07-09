@@ -1,0 +1,21 @@
+p {
+  font-family: Lato;
+}
+
+/*.col2 {
+  position:relative;
+  display:block;
+  float:right;
+  width: 30%;
+  border-radius: 3px;
+}*/
+
+.container{
+  background-color:#e1e1ea;
+}
+
+
+.form-name{
+  color:#333399;
+  margin-bottom: 50px;
+}
